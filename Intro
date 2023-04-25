@@ -1,0 +1,7 @@
+Collision Analysis: This was done to reveal top causes that led to collisions and fatalities.
+
+Time Series Analysis: Reveal what time of day or day of week have most collisions.
+
+Fatality Analysis: This reveled pre crash scenario leading to collisions and number of deaths whenever collisions occurred.
+
+DATA SOURCE : https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
